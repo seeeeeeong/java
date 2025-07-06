@@ -19,15 +19,15 @@ This project covers essential topics such as multithreading, thread control, bas
 
 ## Contents
 
-- [Operating System and Process](multithreading_concepts.md#operating-system-and-process)  
-- [Thread Basics](multithreading_concepts.md#thread-basics)  
-- [Why Multithreading?](multithreading_concepts.md#why-multithreading)  
-- [Multithreading vs Multiprocessing](multithreading_concepts.md#multithreading-vs-multiprocessing)  
-- [Thread Attributes](multithreading_concepts.md#thread-attributes)  
-- [Thread Priority](multithreading_concepts.md#thread-priority)  
-- [Thread States and Life Cycle](multithreading_concepts.md#thread-states-and-life-cycle)  
-- [File Processing and UI Separation](multithreading_concepts.md#file-processing-and-ui-separation)  
-- [Daemon Threads](multithreading_concepts.md#daemon-threads)  
+- [Thread Basics](/thread_basics.md#thread-basics)  
+- [Why Multithreading?](/why_multithreading.md#why-multithreading)  
+- [Multithreading vs Multiprocessing](/multithreading_vs_multiprocessing.md#multithreading-vs-multiprocessing)  
+- [Thread Attributes](/thread_attributes.md#thread-attributes)  
+- [Thread Priority](/thread_priority.md#thread-priority)  
+- [Thread States and Life Cycle](/thread_lifecycle.md#thread-states-and-life-cycle)  
+- [File Processing and UI Separation](/file_ui_separation.md#file-processing-and-ui-separation)  
+- [Daemon Threads](/daemon_threads.md#daemon-threads)  
+
 
 ---
 
